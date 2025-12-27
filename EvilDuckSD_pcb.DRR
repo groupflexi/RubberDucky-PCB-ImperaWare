@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EvilDuckSD_pcb.PcbDoc   9/8/2024  2:59:24 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EvilDuckSD_pcb-RoundHoles.TXT
+ASCII SlotHoles File : EvilDuckSD_pcb-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.356mm)                                           Round             26        PTH        0.00inch (0.00mm)
+T2      39mil (1.001mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T3      59mil (1.501mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+
+Total Processing Time (hh:mm:ss) : 00:00:00
